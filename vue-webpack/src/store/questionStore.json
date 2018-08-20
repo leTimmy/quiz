@@ -1,0 +1,31 @@
+{
+    "questions": [
+        {
+            "questionNumber": "1",
+            "name": "What color is the snow normally?",
+            "answer1": "blue",
+            "answer2": "red",
+            "answer3": "white",
+            "answer4": "yellow",
+            "correctAnswer": 3
+        },
+        {
+            "questionNumber": "2",
+            "name": "What does a cow drink?",
+            "answer1": "water",
+            "answer2": "milk",
+            "answer3": "coffee",
+            "answer4": "wodka",
+            "correctAnswer": 1
+        },
+        {
+            "questionNumber": "3",
+            "name": "Who is the president of the USA",
+            "answer1": "Obama",
+            "answer2": "Sanders",
+            "answer3": "Clinton",
+            "answer4": "Trump",
+            "correctAnswer": 4
+        }
+    ]
+}
