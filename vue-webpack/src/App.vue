@@ -1,8 +1,8 @@
 <template>
   <div id="app">
-    <hr>
-    <router-link to="/">Home</router-link>
-    <router-link to="/quiz">Quiz</router-link>
+    <div class="header">
+      <img src="./assets/sbb_logo.jpg" width="200px" float="right">
+    </div>
     <hr>
     <router-view></router-view>
   </div>
@@ -17,3 +17,7 @@ export default {
   }
 }
 </script>
+
+
+<style src="./styling/reset.css"></style>
+<style src="./styling/main.css"></style>

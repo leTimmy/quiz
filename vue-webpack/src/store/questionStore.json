@@ -2,12 +2,13 @@
     "questions": [
         {
             "questionNumber": "1",
-            "name": "What color is the snow normally?",
-            "answer1": "blue",
-            "answer2": "red",
-            "answer3": "white",
-            "answer4": "yellow",
-            "correctAnswer": 3
+            "name": "Wie viele Bahnhöfe gibt es in der Schweiz?",
+            "answer1": "281 Bahnhöfe",
+            "answer2": "560 Bahnhöfe",
+            "answer3": "794 Bahnhöfe",
+            "answer4": "830 Bahnhöfe",
+            "correctAnswer": 3,
+            "picture": "Download.png"
         },
         {
             "questionNumber": "2",
